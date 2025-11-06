@@ -1,0 +1,19 @@
+
+*{
+background-color:black;
+padding: 0;
+margin: 0;
+}
+
+#banner{
+    min-height: 450px;
+    width: 750px;
+}
+
+li a{ text-decoration: none;
+    color: #ffff;
+    font-size: 20px;}
+ #logo{
+    height: 100px;
+    width: 100px;
+ }
