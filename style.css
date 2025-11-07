@@ -12,7 +12,15 @@ margin: 0;
 
 li a{ text-decoration: none;
     color: #ffff;
-    font-size: 20px;}
+    font-size: 20px;
+    padding: 20px;
+
+}
+    ul{
+        display: flex; /* ativa a propriedade de alinhamento*/
+        flex-direction: row;/* coloque os elementos na horizontal*/
+    
+    }
  #logo{
     height: 100px;
     width: 100px;
