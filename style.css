@@ -51,3 +51,18 @@ nav {
     color: #4c544c;
 
 }
+.texto-banner {
+    color: #ffff;
+    font-size: 20px;
+
+}
+.butão {
+    height: 50px;
+    width: 80px;
+    border-radius: 55px; /*Deixa borda redonda*/
+    border: none;/*Serve para remover a borda*/
+    background-color: #333333;
+    font-size: 13px;
+    font-weight: bold;
+    color: #ffff;
+}
