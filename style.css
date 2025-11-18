@@ -70,6 +70,7 @@
         color: #333333;
         font-size: 15px;
         background-color: #333333;
+        margin: 20px;
        
      }
      .caixa{
@@ -81,6 +82,48 @@
     align-items: center;
     justify-content: center;
      }
-     
+     .estrutura-titulo{
+        display: flex;
+        justify-content: center;
+        padding: 20px;
+     }
+     .titulo{
+        color: #ffffff;
+        font-size: 35px;
+        font-weight: bold;
+     }
+     .Produtos{
+        height: 400px;
+        width: 300px;
+     }
+     .Valor{
+        color: #ffffff;
+        font-weight: bold;
+        font-size: 30px;
+     }
+     .card-texto{
+    display: flex;
+    justify-content: center;
+     }
+     .card{
+        height: 400px;
+        width: 300px;
+        
+     }
+     .cores{
+        height: 15px;
+        width: 15px;
+        border-radius: 100px;
+     }
+     .vermelho{
+        background-color: red;
+     }
+     .azul{
+        background-color: blue;
+     }
+     .amarelo{
+        background-color: yellow;
+     }
+
    
      
