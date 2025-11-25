@@ -212,10 +212,7 @@
        background-image: url("./assents/x-box.png"); /*ele adiciona uma imagem como fundo*/
        background-repeat: no-repeat;
        background-size: cover;
-       display: flex;
-       justify-content: center;
-       flex-direction: row;
-       align-items: center;
+      
        }
    
       .texto-xbox{
@@ -227,6 +224,14 @@
       .banner-xbox{
          display: flex;
          justify-content: end;
+      }
+      .caixa-xbox{
+         display: flex;
+         flex-direction: column;
+         align-items: center;
+         justify-content: center;
+         height: 120px;
+         margin: 20px;
       }
    
       
